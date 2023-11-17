@@ -3,8 +3,5 @@
   "singleQuote": true,
   "useTabs": false,
   "tabWidth": 2,
-  "printWidth": 80,
-  "endOfLine": "auto",
-  "trailingComma": "none",
-  "arrowParens": "avoid"
+  "printWidth": 80
 }
